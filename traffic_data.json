@@ -1,0 +1,1416 @@
+{
+    "MOROGORO ROAD": {
+        "Science Junction": {
+            "congestion": "High",
+            "number_of_cars": 100,
+            "number_of_trucks": 50,
+            "time": "10:30 AM"
+        },
+        "Morroco Junction": {
+            "congestion": "Low",
+            "number_of_cars": 6,
+            "number_of_trucks": 5,
+            "time": "10:45 AM"
+        }
+    },
+    "NYERERE ROAD": {
+        "Junction A": {
+            "congestion": "No Traffic",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "11:00 AM"
+        },
+        "Junction B": {
+            "congestion": "Mid Traffic",
+            "number_of_cars": 50,
+            "number_of_trucks": 20,
+            "time": "11:15 AM"
+        }
+    },
+    "UBUNGO INTERCHANGE": {
+        "Junction X": {
+            "congestion": "Heavy Traffic",
+            "number_of_cars": 389,
+            "number_of_trucks": 50,
+            "time": "11:30 AM"
+        }
+    },
+    "BAGAMOYO ROAD": {
+        "Junction A": {
+            "congestion": "Mid Traffic",
+            "number_of_cars": 50,
+            "number_of_trucks": 20,
+            "time": "11:45 AM"
+        }
+    },
+    "MSASANI HIGHWAY": {
+        "Junction A": {
+            "congestion": "No Traffic",
+            "number_of_cars": 30,
+            "number_of_trucks": 5,
+            "time": "12:00 PM"
+        }
+    },
+    "MBEZI ROAD": {
+        "Junction A": {
+            "congestion": "Heavy Traffic",
+            "number_of_cars": 258,
+            "number_of_trucks": 50,
+            "time": "12:15 PM"
+        }
+    },
+    "PWANI ROAD": {
+        "Junction A": {
+            "congestion": "No Traffic",
+            "number_of_cars": 49,
+            "number_of_trucks": 5,
+            "time": "12:30 PM"
+        }
+    },
+    "MASAKI ROAD": {
+        "Junction A": {
+            "congestion": "Heavy Traffic",
+            "number_of_cars": 259,
+            "number_of_trucks": 60,
+            "time": "12:45 PM"
+        }
+    },
+    "MIKOCHENI ROAD": {
+        "Junction A": {
+            "congestion": "Mid Traffic",
+            "number_of_cars": 120,
+            "number_of_trucks": 30,
+            "time": "1:00 PM"
+        }
+    },
+    "PALM VILLAGE ROAD": {
+        "Junction A": {
+            "congestion": "No Traffic",
+            "number_of_cars": 76,
+            "number_of_trucks": 10,
+            "time": "1:15 PM"
+        }
+    },
+    "Ubungo": {
+        "2025-02-22T19:08:18.346502": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:18.346502"
+        },
+        "2025-02-22T19:08:21.275629": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:21.275629"
+        },
+        "2025-02-22T19:08:23.383224": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:23.383224"
+        },
+        "2025-02-22T19:08:25.262173": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:25.262173"
+        },
+        "2025-02-22T19:08:27.577857": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:27.577857"
+        },
+        "2025-02-22T19:08:29.868517": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:29.868517"
+        },
+        "2025-02-22T19:08:32.686112": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:32.686112"
+        },
+        "2025-02-22T19:08:34.826096": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:34.826096"
+        },
+        "2025-02-22T19:08:37.380846": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:37.380846"
+        },
+        "2025-02-22T19:08:40.067074": {
+            "congestion": "Unknown",
+            "number_of_cars": 9,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:08:40.067074"
+        },
+        "2025-02-22T19:08:42.100921": {
+            "congestion": "Unknown",
+            "number_of_cars": 9,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:08:42.100921"
+        },
+        "2025-02-22T19:08:44.082525": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:44.082525"
+        },
+        "2025-02-22T19:08:46.310591": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:46.310591"
+        },
+        "2025-02-22T19:08:48.420872": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:48.420872"
+        },
+        "2025-02-22T19:08:50.320048": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:50.320048"
+        },
+        "2025-02-22T19:08:52.675139": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:52.675139"
+        },
+        "2025-02-22T19:08:54.921947": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:08:54.921947"
+        },
+        "2025-02-22T19:08:57.177633": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:08:57.177633"
+        },
+        "2025-02-22T19:08:59.308080": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:08:59.308080"
+        },
+        "2025-02-22T19:09:01.568781": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:09:01.568781"
+        },
+        "2025-02-22T19:09:03.617275": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:09:03.617275"
+        },
+        "2025-02-22T19:09:05.782091": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:09:05.782091"
+        },
+        "2025-02-22T19:09:08.450038": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:08.450038"
+        },
+        "2025-02-22T19:09:10.405856": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:10.405856"
+        },
+        "2025-02-22T19:09:13.135490": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:13.135490"
+        },
+        "2025-02-22T19:09:15.492224": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:15.492224"
+        },
+        "2025-02-22T19:09:17.620122": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:17.620122"
+        },
+        "2025-02-22T19:09:19.889230": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:19.889230"
+        },
+        "2025-02-22T19:09:22.378461": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:09:22.378461"
+        },
+        "2025-02-22T19:09:24.447678": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:09:24.447678"
+        },
+        "2025-02-22T19:09:26.358126": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:09:26.358126"
+        },
+        "2025-02-22T19:09:28.213025": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:09:28.213025"
+        },
+        "2025-02-22T19:09:30.122707": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:09:30.122707"
+        },
+        "2025-02-22T19:09:32.180118": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:32.180118"
+        },
+        "2025-02-22T19:09:34.441907": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:34.441907"
+        },
+        "2025-02-22T19:09:36.588353": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:09:36.588353"
+        },
+        "2025-02-22T19:09:38.774823": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:09:38.774823"
+        },
+        "2025-02-22T19:09:40.687204": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:09:40.687204"
+        },
+        "2025-02-22T19:09:42.825245": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:42.825245"
+        },
+        "2025-02-22T19:09:45.275291": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:45.275291"
+        },
+        "2025-02-22T19:09:47.754035": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:47.754035"
+        },
+        "2025-02-22T19:09:49.819321": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:49.819321"
+        },
+        "2025-02-22T19:09:51.672905": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:51.672905"
+        },
+        "2025-02-22T19:09:53.898695": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:53.898695"
+        },
+        "2025-02-22T19:09:56.147423": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:56.147423"
+        },
+        "2025-02-22T19:09:58.066264": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:09:58.066264"
+        },
+        "2025-02-22T19:10:00.459212": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:00.459212"
+        },
+        "2025-02-22T19:10:02.737239": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:02.737239"
+        },
+        "2025-02-22T19:10:05.082283": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:05.082283"
+        },
+        "2025-02-22T19:10:06.955792": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:06.955792"
+        },
+        "2025-02-22T19:10:08.980391": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:10:08.980391"
+        },
+        "2025-02-22T19:10:11.498533": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:10:11.498533"
+        },
+        "2025-02-22T19:10:13.534668": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:10:13.534668"
+        },
+        "2025-02-22T19:10:15.901198": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:15.901198"
+        },
+        "2025-02-22T19:10:18.029752": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:18.029752"
+        },
+        "2025-02-22T19:10:20.212472": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:20.212472"
+        },
+        "2025-02-22T19:10:22.469477": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:22.469477"
+        },
+        "2025-02-22T19:10:24.715802": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:24.715802"
+        },
+        "2025-02-22T19:10:26.783592": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:26.783592"
+        },
+        "2025-02-22T19:10:28.816834": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:28.816834"
+        },
+        "2025-02-22T19:10:30.864859": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:30.864859"
+        },
+        "2025-02-22T19:10:33.007975": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:33.007975"
+        },
+        "2025-02-22T19:10:35.574871": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:35.574871"
+        },
+        "2025-02-22T19:10:37.909693": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:37.909693"
+        },
+        "2025-02-22T19:10:40.389480": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:40.389480"
+        },
+        "2025-02-22T19:10:42.642599": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:42.642599"
+        },
+        "2025-02-22T19:10:44.966374": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:44.966374"
+        },
+        "2025-02-22T19:10:46.926043": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:10:46.926043"
+        },
+        "2025-02-22T19:10:50.225410": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:10:50.225410"
+        },
+        "2025-02-22T19:10:52.006979": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:10:52.006979"
+        },
+        "2025-02-22T19:10:53.992525": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:10:53.992525"
+        },
+        "2025-02-22T19:10:56.046705": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:10:56.046705"
+        },
+        "2025-02-22T19:10:58.246451": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:10:58.246451"
+        },
+        "2025-02-22T19:11:00.842345": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:00.842345"
+        },
+        "2025-02-22T19:11:02.911979": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:02.911979"
+        },
+        "2025-02-22T19:11:04.950928": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:04.950928"
+        },
+        "2025-02-22T19:11:07.413752": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:07.413752"
+        },
+        "2025-02-22T19:11:09.770732": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:09.770732"
+        },
+        "2025-02-22T19:11:12.111437": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:12.111437"
+        },
+        "2025-02-22T19:11:14.376825": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:14.376825"
+        },
+        "2025-02-22T19:11:17.753957": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:17.753957"
+        },
+        "2025-02-22T19:11:19.789661": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:19.789661"
+        },
+        "2025-02-22T19:11:22.045275": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:22.045275"
+        },
+        "2025-02-22T19:11:24.393008": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:24.393008"
+        },
+        "2025-02-22T19:11:26.781099": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:26.781099"
+        },
+        "2025-02-22T19:11:28.826238": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:28.826238"
+        },
+        "2025-02-22T19:11:31.185288": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:31.185288"
+        },
+        "2025-02-22T19:11:33.359950": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:33.359950"
+        },
+        "2025-02-22T19:11:35.770317": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:35.770317"
+        },
+        "2025-02-22T19:11:37.734284": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:37.734284"
+        },
+        "2025-02-22T19:11:39.869672": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:39.869672"
+        },
+        "2025-02-22T19:11:42.120223": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:42.120223"
+        },
+        "2025-02-22T19:11:44.237146": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:44.237146"
+        },
+        "2025-02-22T19:11:46.424415": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:46.424415"
+        },
+        "2025-02-22T19:11:48.778276": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:48.778276"
+        },
+        "2025-02-22T19:11:51.138826": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:51.138826"
+        },
+        "2025-02-22T19:11:52.858353": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:52.858353"
+        },
+        "2025-02-22T19:11:54.725936": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:54.725936"
+        },
+        "2025-02-22T19:11:56.891238": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:56.891238"
+        },
+        "2025-02-22T19:11:58.886740": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:11:58.886740"
+        },
+        "2025-02-22T19:12:02.618249": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:02.618249"
+        },
+        "2025-02-22T19:12:04.864618": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:04.864618"
+        },
+        "2025-02-22T19:12:07.059099": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:07.059099"
+        },
+        "2025-02-22T19:12:09.177425": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:09.177425"
+        },
+        "2025-02-22T19:12:11.011487": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:11.011487"
+        },
+        "2025-02-22T19:12:12.824722": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:12.824722"
+        },
+        "2025-02-22T19:12:15.401441": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:15.401441"
+        },
+        "2025-02-22T19:12:19.109970": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:19.109970"
+        },
+        "2025-02-22T19:12:21.026695": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:21.026695"
+        },
+        "2025-02-22T19:12:23.530928": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:23.530928"
+        },
+        "2025-02-22T19:12:26.176504": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:26.176504"
+        },
+        "2025-02-22T19:12:28.169466": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:28.169466"
+        },
+        "2025-02-22T19:12:31.122582": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:31.122582"
+        },
+        "2025-02-22T19:12:33.091784": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:33.091784"
+        },
+        "2025-02-22T19:12:35.040394": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:35.040394"
+        },
+        "2025-02-22T19:12:36.872248": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:36.872248"
+        },
+        "2025-02-22T19:12:38.928033": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:38.928033"
+        },
+        "2025-02-22T19:12:40.869183": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:40.869183"
+        },
+        "2025-02-22T19:12:42.810880": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:42.810880"
+        },
+        "2025-02-22T19:12:44.669867": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:44.669867"
+        },
+        "2025-02-22T19:12:46.724313": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:46.724313"
+        },
+        "2025-02-22T19:12:48.451147": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:48.451147"
+        },
+        "2025-02-22T19:12:50.452841": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:50.452841"
+        },
+        "2025-02-22T19:12:52.775361": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:52.775361"
+        },
+        "2025-02-22T19:12:54.668199": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:54.668199"
+        },
+        "2025-02-22T19:12:57.171397": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:57.171397"
+        },
+        "2025-02-22T19:12:59.232244": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:12:59.232244"
+        },
+        "2025-02-22T19:13:01.539898": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:01.539898"
+        },
+        "2025-02-22T19:13:03.408764": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:03.408764"
+        },
+        "2025-02-22T19:13:05.583035": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:05.583035"
+        },
+        "2025-02-22T19:13:07.528357": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:07.528357"
+        },
+        "2025-02-22T19:13:09.586740": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:09.586740"
+        },
+        "2025-02-22T19:13:11.485060": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:11.485060"
+        },
+        "2025-02-22T19:13:13.283325": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:13.283325"
+        },
+        "2025-02-22T19:13:15.283748": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:15.283748"
+        },
+        "2025-02-22T19:13:17.436238": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:17.436238"
+        },
+        "2025-02-22T19:13:19.737051": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:19.737051"
+        },
+        "2025-02-22T19:13:21.905640": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:21.905640"
+        },
+        "2025-02-22T19:13:24.042672": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:24.042672"
+        },
+        "2025-02-22T19:13:26.760768": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:26.760768"
+        },
+        "2025-02-22T19:13:28.926995": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:28.926995"
+        },
+        "2025-02-22T19:13:31.923473": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:31.923473"
+        },
+        "2025-02-22T19:13:33.972262": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:13:33.972262"
+        },
+        "2025-02-22T19:13:36.405766": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:13:36.405766"
+        },
+        "2025-02-22T19:13:38.455618": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:13:38.455618"
+        },
+        "2025-02-22T19:13:40.706640": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:13:40.706640"
+        },
+        "2025-02-22T19:13:43.390498": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:13:43.390498"
+        },
+        "2025-02-22T19:13:45.422948": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:13:45.422948"
+        },
+        "2025-02-22T19:13:47.386906": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:13:47.386906"
+        },
+        "2025-02-22T19:13:49.166284": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:13:49.166284"
+        },
+        "2025-02-22T19:13:51.229668": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:13:51.229668"
+        },
+        "2025-02-22T19:15:06.029753": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:06.029753"
+        },
+        "2025-02-22T19:15:08.205851": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:08.205851"
+        },
+        "2025-02-22T19:15:10.629226": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:10.629226"
+        },
+        "2025-02-22T19:15:12.673689": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:12.673689"
+        },
+        "2025-02-22T19:15:14.601725": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:14.601725"
+        },
+        "2025-02-22T19:15:17.185800": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:17.185800"
+        },
+        "2025-02-22T19:15:19.117404": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:19.117404"
+        },
+        "2025-02-22T19:15:21.250352": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:21.250352"
+        },
+        "2025-02-22T19:15:23.504779": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:23.504779"
+        },
+        "2025-02-22T19:15:25.444694": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:25.444694"
+        },
+        "2025-02-22T19:15:27.820252": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:27.820252"
+        },
+        "2025-02-22T19:15:30.002050": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:15:30.002050"
+        },
+        "2025-02-22T19:30:33.979015": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:33.979015"
+        },
+        "2025-02-22T19:30:41.067335": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:41.067335"
+        },
+        "2025-02-22T19:30:43.271181": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:43.271181"
+        },
+        "2025-02-22T19:30:45.905477": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:45.905477"
+        },
+        "2025-02-22T19:30:48.568699": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:48.568699"
+        },
+        "2025-02-22T19:30:50.904319": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:50.904319"
+        },
+        "2025-02-22T19:30:54.175643": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:54.175643"
+        },
+        "2025-02-22T19:30:56.242976": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:56.242976"
+        },
+        "2025-02-22T19:30:58.614202": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:30:58.614202"
+        },
+        "2025-02-22T19:31:01.585308": {
+            "congestion": "Unknown",
+            "number_of_cars": 9,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:31:01.585308"
+        },
+        "2025-02-22T19:31:03.908060": {
+            "congestion": "Unknown",
+            "number_of_cars": 9,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:31:03.908060"
+        },
+        "2025-02-22T19:31:09.000920": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:09.000920"
+        },
+        "2025-02-22T19:31:12.021532": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:12.021532"
+        },
+        "2025-02-22T19:31:14.751933": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:14.751933"
+        },
+        "2025-02-22T19:31:18.169118": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:18.169118"
+        },
+        "2025-02-22T19:31:20.312687": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:20.312687"
+        },
+        "2025-02-22T19:31:23.013890": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:23.013890"
+        },
+        "2025-02-22T19:31:26.012702": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:31:26.012702"
+        },
+        "2025-02-22T19:31:28.575390": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:31:28.575390"
+        },
+        "2025-02-22T19:31:31.105539": {
+            "congestion": "Unknown",
+            "number_of_cars": 12,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:31:31.105539"
+        },
+        "2025-02-22T19:31:33.318263": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:31:33.318263"
+        },
+        "2025-02-22T19:31:35.588728": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 0,
+            "time": "2025-02-22T19:31:35.588728"
+        },
+        "2025-02-22T19:31:38.495741": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:38.495741"
+        },
+        "2025-02-22T19:31:40.891665": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:40.891665"
+        },
+        "2025-02-22T19:31:43.370056": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:43.370056"
+        },
+        "2025-02-22T19:31:45.496574": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:45.496574"
+        },
+        "2025-02-22T19:31:47.989118": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:47.989118"
+        },
+        "2025-02-22T19:31:50.297504": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:31:50.297504"
+        },
+        "2025-02-22T19:31:52.779800": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:31:52.779800"
+        },
+        "2025-02-22T19:31:55.098794": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:31:55.098794"
+        },
+        "2025-02-22T19:31:57.238859": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:31:57.238859"
+        },
+        "2025-02-22T19:31:59.858154": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:31:59.858154"
+        },
+        "2025-02-22T19:32:02.142831": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:32:02.142831"
+        },
+        "2025-02-22T19:32:04.436509": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:04.436509"
+        },
+        "2025-02-22T19:32:06.927276": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:06.927276"
+        },
+        "2025-02-22T19:32:09.181231": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:32:09.181231"
+        },
+        "2025-02-22T19:32:11.377652": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:32:11.377652"
+        },
+        "2025-02-22T19:32:14.147702": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:32:14.147702"
+        },
+        "2025-02-22T19:32:16.674281": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:16.674281"
+        },
+        "2025-02-22T19:32:18.925315": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:18.925315"
+        },
+        "2025-02-22T19:32:21.633335": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:21.633335"
+        },
+        "2025-02-22T19:32:24.321481": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:24.321481"
+        },
+        "2025-02-22T19:32:26.383172": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:26.383172"
+        },
+        "2025-02-22T19:32:28.638972": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:28.638972"
+        },
+        "2025-02-22T19:32:31.079453": {
+            "congestion": "Unknown",
+            "number_of_cars": 10,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:31.079453"
+        },
+        "2025-02-22T19:32:33.570999": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:33.570999"
+        },
+        "2025-02-22T19:32:35.662085": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:35.662085"
+        },
+        "2025-02-22T19:32:38.751375": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:38.751375"
+        },
+        "2025-02-22T19:32:41.327373": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:41.327373"
+        },
+        "2025-02-22T19:32:43.662949": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:43.662949"
+        },
+        "2025-02-22T19:32:46.496422": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:32:46.496422"
+        },
+        "2025-02-22T19:32:48.967800": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:32:48.967800"
+        },
+        "2025-02-22T19:32:51.336445": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 2,
+            "time": "2025-02-22T19:32:51.336445"
+        },
+        "2025-02-22T19:32:53.544806": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:53.544806"
+        },
+        "2025-02-22T19:32:55.512629": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:55.512629"
+        },
+        "2025-02-22T19:32:57.591230": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:57.591230"
+        },
+        "2025-02-22T19:32:59.811324": {
+            "congestion": "Unknown",
+            "number_of_cars": 11,
+            "number_of_trucks": 1,
+            "time": "2025-02-22T19:32:59.811324"
+        }
+    }
+}
