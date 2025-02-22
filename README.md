@@ -23,12 +23,12 @@ Welcome to the **Traffic Alert System**, created as part of the **Africa's Talki
 ### 1. **Live Feed of Vehicles Being Counted and Tracked by YOLO Object Detection**
 *This image showcases the live feed of cars being counted and tracked in real time using YOLO (You Only Look Once) object detection.*
 
-![YOLO Object Detection Live Feed](assets\livefeed.jpg)
+![YOLO Object Detection Live Feed](assets/livefeed.jpg)
 
 ### 2. **Africa's Talking Simulation Showing Messages Sent to Drivers**
 *This screenshot shows the SMS traffic messages sent to drivers, providing them with real-time updates on road conditions.*
 
-![Africa's Talking SMS Simulation](assets\messages.png)
+![Africa's Talking SMS Simulation](assets/messages.png)
 
 ## Example Request
 
