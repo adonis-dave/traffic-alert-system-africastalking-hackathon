@@ -1,0 +1,146 @@
+.bi {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+}
+
+/*
+   * Sidebar
+   */
+
+@media (min-width: 768px) {
+    .sidebar .offcanvas-lg {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 48px;
+    }
+
+    .navbar-search {
+        display: block;
+    }
+}
+
+.sidebar .nav-link {
+    font-size: .875rem;
+    font-weight: 500;
+}
+
+.sidebar .nav-link.active {
+    color: #2470dc;
+}
+
+.sidebar-heading {
+    font-size: .75rem;
+}
+
+/*
+   * Navbar
+   */
+
+.navbar-brand {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(0, 0, 0, .25);
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
+}
+
+.navbar .form-control {
+    padding: .75rem 1rem;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.lane {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.traffic-light {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+#image {
+    width: 990px;
+    height: 440px;
+}
+
+.light {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 5px;
+}
+
+.red {
+    background-color: #ff0000;
+}
+
+.yellow {
+    background-color: #ffff00;
+}
+
+.green {
+    background-color: #00ff00;
+}
+
+.off {
+    background-color: #333;
+}
+
+.vehicle-counter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
