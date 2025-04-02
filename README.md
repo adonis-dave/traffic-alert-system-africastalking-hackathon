@@ -9,12 +9,26 @@ Welcome to the **Traffic Alert System**, created as part of the **Africa's Talki
 - Provides vehicle breakdowns (cars, trucks, buses, motorbikes) and congestion levels at each junction.
 - Simple and easy-to-use SMS interface for traffic queries.
 - "HI" command to get instructions on how to use the system.
+- **Real-Time Dashboard**: A dashboard to monitor traffic data and view vehicle counts in real time.
 
 ## How It Works
 
 1. **Send Road Name**: To get traffic updates for a specific road, send the road name via SMS (e.g., "MOROGORO ROAD").
 2. **Receive Traffic Data**: The system responds with a traffic report for the road, including vehicle counts and congestion information at different junctions.
 3. **Support**: Send 'HI' for instructions and a list of available roads.
+4. **Dashboard**: A real-time dashboard allows monitoring of vehicle counts and congestion levels, helping track traffic trends across various roads.
+
+## Screenshots
+
+### 1. **Live Feed of Vehicles Being Counted and Tracked by YOLO Object Detection**
+*This image showcases the live feed of cars being counted and tracked in real time using YOLO (You Only Look Once) object detection.*
+
+![YOLO Object Detection Live Feed](assets/livefeed.jpg)
+
+### 2. **Africa's Talking Simulation Showing Messages Sent to Drivers**
+*This screenshot shows the SMS traffic messages sent to drivers, providing them with real-time updates on road conditions.*
+
+![Africa's Talking SMS Simulation](assets/messages.png)
 
 ## Example Request
 
@@ -41,7 +55,7 @@ Timestamp: 2025-02-22T18:43:01.453797
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/traffic-alert-system-africastalking-hackathon.git
+   git clone https://github.com/iamricky17/traffic-alert-system-africastalking-hackathon.git
    ```
 2. Install dependencies:
    ```bash
