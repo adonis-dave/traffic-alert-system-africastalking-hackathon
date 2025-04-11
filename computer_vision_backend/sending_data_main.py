@@ -5,8 +5,7 @@ import time
 import requests
 from datetime import datetime
 
-API_URL = "https://af6f-197-250-227-176.ngrok-free.app"
-
+API_URL = "https://b297-197-186-3-135.ngrok-free.app"
 class TrafficMonitor:
     def __init__(self, video_path, road_id="Ubungo"):
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
