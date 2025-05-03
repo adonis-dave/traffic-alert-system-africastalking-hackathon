@@ -31,7 +31,7 @@ def save_traffic_data(data):
 # Load traffic data at the start of the app
 road_info = load_traffic_data()
 
-TRAFFIC_PERSONNEL_NUMBERS = ["+255741827924"]  # Add traffic personnel's phone numbers here
+TRAFFIC_PERSONNEL_NUMBERS = ["+255654255717"]  # Add traffic personnel's phone numbers here
 
 # Define the router for API endpoints
 router = APIRouter()

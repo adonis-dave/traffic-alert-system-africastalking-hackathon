@@ -5,7 +5,7 @@ import time
 import requests
 from datetime import datetime
 
-API_URL = "https://af6f-197-250-227-176.ngrok-free.app"
+API_URL = "https://872f-197-186-1-71.ngrok-free.app"
 
 class TrafficMonitor:
     def __init__(self, video_path, road_id="Ubungo"):
